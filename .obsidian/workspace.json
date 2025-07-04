@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0ac82a24d943dc",
+        "id": "c79c3cbc53dbb778",
         "type": "tabs",
         "children": [
           {
-            "id": "4a16932f3fbffad1",
+            "id": "afdeb0eef6360856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript knowledge base/book notes/professional javascript/Book Notes Professional JavaScript Chapter 1 - Introduction to JavaScript.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book Notes Professional JavaScript Chapter 1 - Introduction to JavaScript"
+              "title": "README"
             }
           }
         ]
@@ -202,13 +202,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b1dff7c2e70576dc",
+  "active": "afdeb0eef6360856",
   "lastOpenFiles": [
-    "README.md~",
+    "javascript knowledge base/book notes/professional javascript/Book Notes Professional JavaScript Chapter 1 - Introduction to JavaScript.md",
+    "javascript knowledge base/concepts/tt.md",
     "README.md",
+    "javascript knowledge base/real life examples",
+    "README.md~",
     "env.js",
     "env.js.md",
-    "javascript knowledge base/book notes/professional javascript/Book Notes Professional JavaScript Chapter 1 - Introduction to JavaScript.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "javascript knowledge base/projects & exercise",
     "javascript knowledge base/cheat sheets",
@@ -218,7 +220,6 @@
     "javascript knowledge base/book notes",
     "javascript knowledge base",
     "Excalidraw/Drawing 2025-07-03 13.03.40.excalidraw.md",
-    "Excalidraw",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -230,7 +231,6 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts"
+    "copilot-custom-prompts/Translate to Chinese.md"
   ]
 }

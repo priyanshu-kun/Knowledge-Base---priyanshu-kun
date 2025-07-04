@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTrees",
       "LiHammer",
       "LiFocus",
       "LiCode2",
-      "LiFileSpreadsheet",
-      "LiBook"
+      "LiFileSpreadsheet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,9 @@
   "javascript knowledge base/projects & exercise": {
     "iconName": "LiHammer",
     "iconColor": "#ec5555"
+  },
+  "javascript knowledge base/real life examples": {
+    "iconName": "LiTrees",
+    "iconColor": "#baf887"
   }
 }
