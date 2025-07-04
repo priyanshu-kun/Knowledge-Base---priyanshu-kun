@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "colors": {
+    "default": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "knowledge-base-colors": [
+      "#E6E6FA",
+      "#9966CC",
+      "#DA70D6",
+      "#9400D3",
+      "#4B0082"
+    ]
+  },
+  "entries": [
+    {
+      "date": "1900-01-01",
+      "color": "#7bc96f",
+      "intensity": 5,
+      "content": ""
+    }
+  ],
+  "showCurrentDayBorder": true,
+  "defaultEntryIntensity": 4,
+  "intensityScaleStart": 1,
+  "intensityScaleEnd": 5,
+  "weekStartDay": 1
+}

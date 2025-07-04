@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHammer",
+      "LiFocus",
+      "LiCode2",
+      "LiFileSpreadsheet",
+      "LiBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "javascript knowledge base/book notes/professional javascript/Book Notes Professional JavaScript Chapter 1 - Introduction to JavaScript.md": "📄",
+  "javascript knowledge base/book notes": {
+    "iconName": "LiBook",
+    "iconColor": "#ffca57"
+  },
+  "javascript knowledge base/cheat sheets": "LiFileSpreadsheet",
+  "javascript knowledge base/code examples": {
+    "iconName": "LiCode2",
+    "iconColor": "#75bcff"
+  },
+  "javascript knowledge base/concepts": {
+    "iconName": "LiFocus",
+    "iconColor": "#66ea76"
+  },
+  "javascript knowledge base/projects & exercise": {
+    "iconName": "LiHammer",
+    "iconColor": "#ec5555"
+  }
+}
